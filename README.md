@@ -187,8 +187,8 @@ This project is licensed under the **MIT License**.
 ## 👤 Author
 
 **Your Name**\
-GitHub: [https://github.com/SAQIB821](https://github.com/SAQIB821)\
-Email: **saqib12841284\@gmail.com**
+GitHub: [https://github.com/malikusman0796-spec](https://github.com/malikusman0796-spec)\
+Email: **malikusman0796\@gmail.com**
 
 ---
 
